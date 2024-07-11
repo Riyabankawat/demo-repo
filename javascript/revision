@@ -1,0 +1,51 @@
+// const pi = 3.24;
+// console.log(pi);
+// pi = 3.22;
+// console.log(pi);
+
+// let firstName = '   riya  ';
+// console.log(firstName.length);
+// firstName.trim();
+// console.log(firstName);
+// console.log(firstName.length)
+  
+
+
+// let age = 7;
+// console.log(age+'');
+// console.log(typeof (age + ''));
+
+// let age = 20;
+// let name = 'riya';
+// let aboutme = `my name is  ${name} and my age ${age} ` 
+
+
+// let number = 123;
+// let num = 12n;
+// let n = BigInt(number) + num;
+// console.log(n);
+
+// let fruits = ['apple','mango','kiwi'];
+// console.log(fruits[2]);
+// fruits.pop();
+// console.log(fruits);
+// let poped = fruits.pop();
+// console.log(poped);
+// fruits.unshift("banana",'guava');
+// console.log(fruits);
+
+// const arr1 = [1,2,3];
+// // const arr2 = [...arr1];
+// console.log(arr1 === arr2);
+// console.log(arr2);
+// arr1.push(4);
+// console.log(arr1);
+
+// const arr1 = [ 1,1,2,3,4];
+// let[var1,,,var2] = arr1;
+// console.log(var1);
+// console.log(var2);
+
+for(let i=0;i>=5; i++){
+    console.log('hello');
+}
